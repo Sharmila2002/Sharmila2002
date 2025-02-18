@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharmila2002
 - 👀 I’m interested in ...java.
-- 🌱 I have completed ...  IT Diploma
+- 🌱 I am pursuing BE in IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  Using mail id sharmilabhosale2020@gmail.com
 <!---
