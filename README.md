@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sharmila2002
+- 👋 Hi, I’m Sharmila Bhosale
 - 👀 I’m interested in ...java.
 - 🌱 I am college student pursuing third year of IT engineering , currently doing the preparation of DSA. I have a passion for Java and Problem solving. I like to transform complex problems into simple one. I have also solved over 150+ data structure and algorithm problems , which has honed my problem-solving skills.
 
